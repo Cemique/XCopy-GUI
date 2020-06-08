@@ -1,0 +1,14 @@
+F:\Visual Studio Projects\XCopyGuiProject\XCopyGuiProject\bin\Release\Microsoft.WindowsAPICodePack.dll
+F:\Visual Studio Projects\XCopyGuiProject\XCopyGuiProject\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+F:\Visual Studio Projects\XCopyGuiProject\XCopyGuiProject\bin\Release\Microsoft.WindowsAPICodePack.xml
+F:\Visual Studio Projects\XCopyGuiProject\XCopyGuiProject\bin\Release\Microsoft.WindowsAPICodePack.Shell.xml
+F:\Visual Studio Projects\XCopyGuiProject\XCopyGuiProject\obj\Release\XCopyGuiProject.Form1.resources
+F:\Visual Studio Projects\XCopyGuiProject\XCopyGuiProject\obj\Release\XCopyGuiProject.LoadingForm.resources
+F:\Visual Studio Projects\XCopyGuiProject\XCopyGuiProject\obj\Release\XCopyGuiProject.Properties.Resources.resources
+F:\Visual Studio Projects\XCopyGuiProject\XCopyGuiProject\obj\Release\XCopyGuiProject.csproj.GenerateResource.Cache
+F:\Visual Studio Projects\XCopyGuiProject\XCopyGuiProject\bin\Release\XCopyGUI.exe.config
+F:\Visual Studio Projects\XCopyGuiProject\XCopyGuiProject\bin\Release\XCopyGUI.exe
+F:\Visual Studio Projects\XCopyGuiProject\XCopyGuiProject\bin\Release\XCopyGUI.pdb
+F:\Visual Studio Projects\XCopyGuiProject\XCopyGuiProject\obj\Release\XCopyGUI.exe
+F:\Visual Studio Projects\XCopyGuiProject\XCopyGuiProject\obj\Release\XCopyGUI.pdb
+F:\Visual Studio Projects\XCopyGuiProject\XCopyGuiProject\obj\Release\XCopyGuiProject.XcopyResources.resources

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XCopyGuiProject", "XCopyGuiProject\XCopyGuiProject.csproj", "{E3870687-3A57-43AE-BD97-FF64E3C3ECCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleLabProject", "ConsoleLabProject\ConsoleLabProject.csproj", "{5CB1BC1F-274E-4CCD-B49E-D4453D74A274}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "XCopyGUI Setup", "XCopyGUI Setup\XCopyGUI Setup.vdproj", "{B479D786-DE84-4ED5-9A46-72057720C576}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3870687-3A57-43AE-BD97-FF64E3C3ECCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3870687-3A57-43AE-BD97-FF64E3C3ECCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3870687-3A57-43AE-BD97-FF64E3C3ECCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3870687-3A57-43AE-BD97-FF64E3C3ECCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CB1BC1F-274E-4CCD-B49E-D4453D74A274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CB1BC1F-274E-4CCD-B49E-D4453D74A274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CB1BC1F-274E-4CCD-B49E-D4453D74A274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CB1BC1F-274E-4CCD-B49E-D4453D74A274}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B479D786-DE84-4ED5-9A46-72057720C576}.Debug|Any CPU.ActiveCfg = Debug
+		{B479D786-DE84-4ED5-9A46-72057720C576}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
