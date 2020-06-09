@@ -350,5 +350,11 @@ MigrationBackup/
 .ionide/
 
 .vs
+gitignoredir
 ConsoleLabProject
-gitignore
+
+XCopyGUI Setup/Debug
+XCopyGuiProject/bin/Debug
+XCopyGuiProject/obj/Debug
+
+git_commands.txt

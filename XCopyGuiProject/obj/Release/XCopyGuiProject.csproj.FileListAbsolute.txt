@@ -12,3 +12,4 @@ F:\Visual Studio Projects\XCopyGuiProject\XCopyGuiProject\bin\Release\XCopyGUI.p
 F:\Visual Studio Projects\XCopyGuiProject\XCopyGuiProject\obj\Release\XCopyGUI.exe
 F:\Visual Studio Projects\XCopyGuiProject\XCopyGuiProject\obj\Release\XCopyGUI.pdb
 F:\Visual Studio Projects\XCopyGuiProject\XCopyGuiProject\obj\Release\XCopyGuiProject.XcopyResources.resources
+F:\Visual Studio Projects\XCopyGuiProject\XCopyGuiProject\obj\Release\XCopyGuiProject.csprojResolveAssemblyReference.cache
